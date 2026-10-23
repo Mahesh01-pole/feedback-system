@@ -1,0 +1,8 @@
+target/
+apache-tomcat-10.1.24/
+.settings/
+.classpath
+.project
+*.class
+*.log
+src/main/resources/db.properties
